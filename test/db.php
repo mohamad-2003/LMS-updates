@@ -1,4 +1,12 @@
 <?php
+//ghazi made a update
+?>
+
+
+
+
+
+<?php
 // Database connection
 $host = 'localhost'; // Change if your database is hosted elsewhere
 $dbname = 'testing';     // Replace with your database name
